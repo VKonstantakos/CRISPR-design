@@ -1,7 +1,11 @@
 # CRISPR-design
 List of software/websites/databases/reviews for CRISPR gene editing.
 
-This collection is inspired by [awesome-CRISPR](https://github.com/seandavi/awesome-single-cell).
+This collection is inspired by [awesome-CRISPR](https://github.com/davidliwei/awesome-CRISPR).
+
+## Overview
+
+![Overview](https://ars.els-cdn.com/content/image/1-s2.0-S2001037019303551-ga1_lrg.jpg)
 
 ## Contents
 
@@ -11,15 +15,14 @@ This collection is inspired by [awesome-CRISPR](https://github.com/seandavi/awes
 - Databases
 - Reviews
 
-
 ## On-target prediction algorithms (Machine Learning based)
 
 - [SSC](http://cistrome.org/SSC/) - [webserver] - A sequence model for predicting sgRNA efficiency in CRISPR/Cas9 knockout experiments.
 - [CRISPRscan](http://www.crisprscan.org) - [webserver] - A novel algorithm to predict gRNA efficiency in zebrafish.
-- [WU-CRISPR](http://crispr.wustl.edu) - [webserver] - A web tool to design gRNA for CRISPR/Cas9 Knockout system.
+- [WU-CRISPR](http://crispr.wustl.edu) - [webserver] - A web tool to design gRNA for CRISPR/Cas9 Knockout system (replaced by sgDesigner).
 - [CRISPOR](http://crispor.tefor.net/) - [webserver] - A program that helps to design, evaluate and clone guide sequences for the CRISPR/Cas9 system.
 - [TSAM](https://github.com/penn-hui/TSAM) - [Python, MATLAB, webserver] - Two-Step-Averaging-Method (TSAM) by averaging the predicted efficiency scores of a boosting algorithm and those by a support vector machine (SVM).
-- [sgDesigner](https://github.com/wang-lab/sgDesigner) - [Perl/Python], [webserver](http://crispr.wustl.edu.) - A stacking model framework using XGBoost, SVM and Logistic Regression as classifiers.
+- [sgDesigner](https://github.com/wang-lab/sgDesigner) - [Perl/Python, [webserver](http://crispr.wustl.edu.)] - A stacking model framework using XGBoost, SVM and Logistic Regression as classifiers.
 
 
 ## On-target prediction algorithms (Deep Learning based)
