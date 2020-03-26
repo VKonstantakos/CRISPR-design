@@ -22,7 +22,7 @@ This collection is inspired by [awesome-CRISPR](https://github.com/davidliwei/aw
 - [WU-CRISPR](http://crispr.wustl.edu) - [webserver] - A web tool to design gRNA for CRISPR/Cas9 Knockout system (replaced by sgDesigner).
 - [CRISPOR](http://crispor.tefor.net/) - [webserver] - A program that helps to design, evaluate and clone guide sequences for the CRISPR/Cas9 system.
 - [Azimuth](https://github.com/microsoftResearch//azimuth) - [Python, [webserver](https://crispr.ml/), [webserver](https://portals.broadinstitute.org/gpp/public/analysis-tools/sgrna-design)] - Predictive Modelling of CRISPR/Cas9 guide efficiency based on Gradient-Boosted Regression Trees.
-- [TSAM](https://github.com/penn-hui/TSAM) - [Python, MATLAB, webserver] - Two-Step-Averaging-Method (TSAM) by averaging the predicted efficiency scores of a boosting algorithm and those by a support vector machine (SVM).
+- [TSAM](https://github.com/penn-hui/TSAM) - [Python, MATLAB, [webserver](http://www.aai-bioinfo.com/CRISPR/)] - Two-Step-Averaging-Method (TSAM) by averaging the predicted efficiency scores of a boosting algorithm and those by a support vector machine (SVM).
 - [sgDesigner](https://github.com/wang-lab/sgDesigner) - [Perl/Python, [webserver](http://crispr.wustl.edu.)] - A stacking model framework using XGBoost, SVM and Logistic Regression as classifiers.
 
 
