@@ -21,6 +21,7 @@ This collection is inspired by [awesome-CRISPR](https://github.com/davidliwei/aw
 - [CRISPRscan](http://www.crisprscan.org) - [webserver] - A novel algorithm to predict gRNA efficiency in zebrafish.
 - [WU-CRISPR](http://crispr.wustl.edu) - [webserver] - A web tool to design gRNA for CRISPR/Cas9 Knockout system (replaced by sgDesigner).
 - [CRISPOR](http://crispor.tefor.net/) - [webserver] - A program that helps to design, evaluate and clone guide sequences for the CRISPR/Cas9 system.
+- [Azimuth](https://github.com/microsoftResearch//azimuth) - [Python, [webserver](https://crispr.ml/), [webserver](https://portals.broadinstitute.org/gpp/public/analysis-tools/sgrna-design)] - Predictive Modelling of CRISPR/Cas9 guide efficiency based on Gradient-Boosted Regression Trees.
 - [TSAM](https://github.com/penn-hui/TSAM) - [Python, MATLAB, webserver] - Two-Step-Averaging-Method (TSAM) by averaging the predicted efficiency scores of a boosting algorithm and those by a support vector machine (SVM).
 - [sgDesigner](https://github.com/wang-lab/sgDesigner) - [Perl/Python, [webserver](http://crispr.wustl.edu.)] - A stacking model framework using XGBoost, SVM and Logistic Regression as classifiers.
 
@@ -31,6 +32,7 @@ This collection is inspired by [awesome-CRISPR](https://github.com/davidliwei/aw
 - [DeepCas9](https://github.com/lje00006/DeepCas9) - [R] - DeepCas9 tool can be used to make CRISPR sgRNAs activity prediction based on convolutions neural networks and a one-hot representation of DNA sequence.
 - [CRISPRLearner](https://github.com/pierclgr/CRISPRLearner) - [Python] - A deep learning based system to predict CRISPR/Cas9 on target cleavage efficiency with 10 different model weights.
 - [CNN-SVR](https://github.com/Peppags/CNN-SVR) - [Python] - A merged CNN as the front-end for extracting gRNA and epigenetic features as well as an SVR as the back-end for regression and predicting gRNA cleavage efficiency.
+- [C-RNNCrispr](https://github.com/Peppags/C-RNNCrispr) - [Python] - A hybrid convolutional neural networks (CNNs) and bidirectional gate recurrent unit network (BGRU) framework for predicting CRISPR/Cas9 single guide RNA on-target activity.
 
 
 ## Off-target prediction algorithms
